@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape>
+            <solid android:color="@color/main_toolbar"/>
+            <corners android:radius="4dp"/>
+            <padding
+                android:top="8dp"
+                android:bottom="8dp"
+                android:left="12dp"
+                android:right="12dp">
+            </padding>
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_search">
+    </item>
+
+</layer-list>
+
+
+

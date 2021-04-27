@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Leroy Merlin Job</string>
+
+    <!--Main Screen-->
+    <string name="main_search_products_title">Поиск товаров</string>
+    <string name="main_search">Поиск</string>
+    <string name="main_limited_products">Предложение ограничено</string>
+    <string name="main_best_price_products">Лучшая цена</string>
+
+    <!--Bottom Navigation View-->
+    <string name="bnv_main">Главная</string>
+    <string name="bnv_mylist">Мой список</string>
+    <string name="bnv_stores">Магазины</string>
+    <string name="bnv_user">Профиль</string>
+    <string name="bnv_cart">Корзина</string>
+
+
+    <!--Categories-->
+    <string name="category">Каталог</string>
+    <string name="category_all">Смотреть всё</string>
+    <string name="category_building">Стройматериалы</string>
+    <string name="category_woods">Столярные изделия</string>
+    <string name="category_windows">Окна и двери</string>
+    <string name="category_electrical">Электротовары</string>
+    <string name="category_tools">Инструменты</string>
+    <string name="category_covering">Напольные покрытия</string>
+    <string name="category_mosaic">Плитка</string>
+    <string name="category_plumbing">Сантехника</string>
+    <string name="category_water">Водоснабжение</string>
+    <string name="category_garden">Сад</string>
+    <string name="category_nail">Скобяные изделия</string>
+    <string name="category_colors">Краски</string>
+    <string name="category_decor">Декор</string>
+    <string name="category_light">Освещение</string>
+    <string name="category_storage">Хранение</string>
+    <string name="category_kitchen">Кухни</string>
+
+
+    <string name="first_product_price">1 068 &#x20bd;/шт.</string>
+    <string name="first_product_description">Обои флизелиновые Vagnerplast Unplugged серые UN3202 0.53 м</string>
+
+    <string name="second_product_price">658 &#x20bd;/шт.</string>
+    <string name="second_product_description">Кашпо Idea Дюна &#216;34 h63 см v42 л пластик белый</string>
+
+    <string name="third_product_price">116 &#x20bd;/шт.</string>
+    <string name="third_product_description">Средство для мытья стёкол Prosept 0.5 л</string>
+
+    <string name="fourth_product_price">118 &#x20bd;/шт.</string>
+    <string name="fourth_product_description">Средство для акриловых ванн 0.5 л</string>
+
+    <string name="fiveth_product_price">112 &#x20bd;/шт.</string>
+    <string name="fiveth_product_description">Салфетка, 35х35 см, микрофибра, 4шт.</string>
+
+    <string name="sixth_product_price">188 &#x20bd;/шт.</string>
+    <string name="sixth_product_description">Лоток для столовых приборов двойной MIO, 40x31x7 см, цвкт молочный</string>
+
+    <string name="seventh_product_price">1 737 &#x20bd;/шт.</string>
+    <string name="seventh_product_description">Обои флизелиновые Erismann Paradiso бежевые 1.06 м 3040-2</string>
+
+    <string name="eighth_product_price">3 652 &#x20bd;/шт.</string>
+    <string name="eighth_product_description">Стеллаж Кабуки 60х201х28 см, ЛДСП, цвет дуб сонома</string>
+
+    <string name="nineth_product_price">686 &#x20bd;/шт.</string>
+    <string name="nineth_product_description">Лак для мебели V33 ангора 0.5 л</string>
+
+    <string name="tenth_product_price">168 &#x20bd;/шт.</string>
+    <string name="tenth_product_description">Средство для удаления известкового налёта Prosept экологичное 0.5 л</string>
+
+
+</resources>

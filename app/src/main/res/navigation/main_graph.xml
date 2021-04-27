@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/navigationMainFragment">
+    <fragment
+        android:id="@+id/navigationMainFragment"
+        android:name="com.example.leroymerlinjob.fragments.NavigationMainFragment"
+        android:label="NavigationMainFragment"/>
+    <fragment
+        android:id="@+id/catalogWideFragment"
+        android:name="com.example.leroymerlinjob.fragments.CatalogWideFragment"
+        android:label="CatalogWideFragment" />
+    <fragment
+        android:id="@+id/subCategoriesFragment"
+        android:name="com.example.leroymerlinjob.fragments.SubCategoriesFragment"
+        android:label="SubCategoriesFragment" />
+    <fragment
+        android:id="@+id/navigationMyListFragment"
+        android:name="com.example.leroymerlinjob.fragments.NavigationMyListFragment"
+        android:label="NavigationMyListFragment" />
+    <fragment
+        android:id="@+id/navigationStoresFragment"
+        android:name="com.example.leroymerlinjob.fragments.NavigationStoresFragment"
+        android:label="NavigationStoresFragment" />
+    <fragment
+        android:id="@+id/navigationUserFragment"
+        android:name="com.example.leroymerlinjob.fragments.NavigationUserFragment"
+        android:label="NavigationUserFragment" />
+    <fragment
+        android:id="@+id/navigationCartFragment"
+        android:name="com.example.leroymerlinjob.fragments.NavigationCartFragment"
+        android:label="NavigationCartFragment" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.example.leroymerlinjob.fragments.SearchFragment"
+        android:label="SearchFragment" />
+</navigation>
